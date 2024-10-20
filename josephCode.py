@@ -105,7 +105,7 @@ print(df_ostomy['sentiment'].value_counts()['neutral'])
 print(df_ostomy['sentiment'].value_counts()['positive'])
 print(df_ostomy['sentiment'].value_counts()['negative'])
 
-
+#test
 
 print(df_ostomy)
 
