@@ -17,6 +17,9 @@ skincare_one_url = 'https://www.amazon.com/CeraVe-Moisturizing-Cream-Daily-Moist
 custom_headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 Firefox/131.0', 
 'accept-language': 'en-US,en;q=0.5'}
 
+
+#hiii
+
 response_ostomy_one = requests.get(ostomy_one_url, headers = custom_headers)
 
 response_skincare_one = requests.get(skincare_one_url, headers = custom_headers)
